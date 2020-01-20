@@ -1,0 +1,82 @@
+{
+  "data":
+  [
+    {
+      "id": 1,
+      "name": "王怂蛋",
+      "leader": "领衔人1",
+      "member": 80,
+      "title": "浙江教育资源网”特级教 师工作室首批专家",
+      "arcicleCount": 30,
+      "resCount": 23,
+      "courseCount": 21,
+      "image":"https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=bbe8a73e36a85edfee81f671283d6246/1f178a82b9014a90f1da88d3ab773912b21beefc.jpg"
+    },
+    {
+      "id": 2,
+      "name": "王海丽",
+      "leader": "领衔人2",
+      "member": 80,
+      "title": "浙江教育资源网”特级教 师工作室首批专家",
+      "arcicleCount": 30,
+      "resCount": 23,
+      "courseCount": 21,
+      "image":"https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=bbe8a73e36a85edfee81f671283d6246/1f178a82b9014a90f1da88d3ab773912b21beefc.jpg"
+    },
+    {
+      "id": 3,
+      "name": "姓名3",
+      "leader": "领衔人3",
+      "member": 80,
+      "title": "浙江教育资源网”特级教 师工作室首批专家",
+      "arcicleCount": 30,
+      "resCount": 23,
+      "courseCount": 21,
+      "image":"https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=bbe8a73e36a85edfee81f671283d6246/1f178a82b9014a90f1da88d3ab773912b21beefc.jpg"
+    },
+    {
+      "id": 4,
+      "name": "姓名4",
+      "leader": "领衔人4",
+      "member": 19,
+      "title": "浙江教育资源网”特级教 师工作室首批专家",
+      "arcicleCount": 30,
+      "resCount": 23,
+      "courseCount": 21,
+      "image":"https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=bbe8a73e36a85edfee81f671283d6246/1f178a82b9014a90f1da88d3ab773912b21beefc.jpg"
+    },
+    {
+      "id": 5,
+      "name": "姓名5",
+      "leader": "领衔人5",
+      "member": 80,
+      "title": "浙江教育资源网”特级教 师工作室首批专家",
+      "arcicleCount": 30,
+      "resCount": 23,
+      "courseCount": 21,
+      "image":"https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=bbe8a73e36a85edfee81f671283d6246/1f178a82b9014a90f1da88d3ab773912b21beefc.jpg"
+    },
+    {
+      "id": 6,
+      "name": "姓名6",
+      "leader": "领衔人6",
+      "member": 80,
+      "title": "浙江教育资源网”特级教 师工作室首批专家",
+      "arcicleCount": 30,
+      "resCount": 23,
+      "courseCount": 21,
+      "image":"https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=bbe8a73e36a85edfee81f671283d6246/1f178a82b9014a90f1da88d3ab773912b21beefc.jpg"
+    },
+    {
+      "id": 7,
+      "name": "姓名7",
+      "leader": "领衔人7",
+      "member": 10,
+      "title": "浙江教育资源网”特级教 师工作室首批专家",
+      "arcicleCount": 30,
+      "resCount": 13,
+      "courseCount": 21,
+      "image":"https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=bbe8a73e36a85edfee81f671283d6246/1f178a82b9014a90f1da88d3ab773912b21beefc.jpg"
+    }
+  ]
+}

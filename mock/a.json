@@ -1,0 +1,36 @@
+studioUser:
+createBy: "be310e6761614e75b8bf94c890d02217"
+gmtCreate: "2019-12-11 14:41:52"
+gmtModified: "2019-12-11 14:41:52"
+modifiedBy: "be310e6761614e75b8bf94c890d02217"
+position: 4
+roleId: null
+sort: 1
+studioId: "2c9356136ee922dd016eee8ce54a0006"
+studioUserId: 6
+userId: "2c9356136ef36f79016ef3b148430001"
+__proto__: Object
+user:
+avatar: "https://gzs-file.oss-cn-beijing.aliyuncs.com/5db7d9fc-3cae-4c99-9511-9856be7e6f09.jpg"
+createBy: "be310e6761614e75b8bf94c890d02217"
+emailAddress: "111"
+fullName: "zhaoxin555"
+gender: 1
+gmtCreate: "2019-12-11 14:41:52"
+gmtModified: "2019-12-11 14:41:52"
+graduatedSchool: "2321"
+highestEducation: 0
+idNumber: "123456"
+introduction: "32132"
+jobTitle: "0"
+label: "ddddd"
+modifiedBy: "be310e6761614e75b8bf94c890d02217"
+organization: "11"
+password: "123456"
+phoneNumber: "123455"
+post: "21321"
+remark: "31"
+status: 1
+type: 1
+userId: "2c9356136ef36f79016ef3b148430001"
+username: "zhaoxin555"

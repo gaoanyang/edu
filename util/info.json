@@ -1,0 +1,28 @@
+{
+    "info": [
+    {
+        "index": 1,
+        "AREA_NAME": "北京",
+        "city": [
+            {
+                "index": 1,
+                "AREA_NAME": "北京市",
+                "district": [
+                    {
+                        "index": 1,
+                        "AREA_NAME": "东城区"
+                    },
+                    {
+                        "index": 2,
+                        "AREA_NAME": "西城区"
+                    },
+                    {
+                        "index": 3,
+                        "AREA_NAME": "崇文区"
+                    }
+                ]
+            }
+        ]
+    }
+]}
+

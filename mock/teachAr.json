@@ -1,0 +1,22 @@
+{
+  "data":
+  [
+    {
+      "name": "王怂蛋",
+      "id": 1,
+      "brife": "许锦源，中学高级教师，原为语文教师，所学的专业也是汉语言文学。1994年中德合作劳技教学实验项目在六中实施，由此转行担任劳技教师。",
+      "image": "https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=bbe8a73e36a85edfee81f671283d6246/1f178a82b9014a90f1da88d3ab773912b21beefc.jpg"
+    },
+    {"name": "李维一",
+      "id": 2,
+      "brife": "描述mock数据",
+      "image": "https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=bbe8a73e36a85edfee81f671283d6246/1f178a82b9014a90f1da88d3ab773912b21beefc.jpg"
+    },
+    {
+      "name": "应欢欢",
+      "id": 3,
+      "brife": "描述mock数据222222222222222222222222",
+      "image": "https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=bbe8a73e36a85edfee81f671283d6246/1f178a82b9014a90f1da88d3ab773912b21beefc.jpg"
+    }
+  ]
+}
